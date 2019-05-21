@@ -1,7 +1,9 @@
 # Grupo de Ciência de Dados (GCiD) 
 
-O Objetivo é formação de recursos humanos nas áreas de:
-* Ciência de dados;
+Objetivo: 
+* Formação de recursos humanos;
+* Desenvolver pesquisas; 
+* Montar _Startups_.
 
 ## Professores Orientadores 
 * Igor 
