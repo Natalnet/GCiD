@@ -1,9 +1,8 @@
-# Grupo de Ciência de Dados (GCiD) 
+# Grupo Interdisciplinar de Ciência de Dados (GCiD) 
 
-Objetivo: 
-* Formação de recursos humanos;
-* Desenvolver pesquisas; 
-* Montar _Startups_.
+Objetivos: 
+* Discutir, fundamentar e orientar projetos, trabalhando em grupo e compartilhando conhecimento e experiências na área de ciência de dados;
+* Estimular futuros pesquisadores e profissionais em Ciência de Dados, fomentando o surgimento de um ecossistema de inovação.
 
 ## Professores Orientadores 
 * Igor 
